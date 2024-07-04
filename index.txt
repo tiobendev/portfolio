@@ -1,0 +1,9 @@
+2:I[6513,[],"ClientPageRoot"]
+3:I[6298,["84","static/chunks/84-addae9f11f63df18.js","990","static/chunks/990-689eaebd66a3d68e.js","931","static/chunks/app/page-e3432ab157083add.js"],"default"]
+4:I[4901,["84","static/chunks/84-addae9f11f63df18.js","990","static/chunks/990-689eaebd66a3d68e.js","185","static/chunks/app/layout-230f82108f9045f9.js"],"default"]
+5:I[9275,[],""]
+6:I[1343,[],""]
+7:I[8709,["160","static/chunks/app/not-found-c96ff1d57cbb8c2a.js"],"default"]
+0:["AFYuIW1yddAtRN6W9cnrb",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1",["$","$L2",null,{"props":{"params":{},"searchParams":{}},"Component":"$3"}]],null],null]},[["$","html",null,{"lang":"pt-br","className":"flex flex-col bg-zinc-950 text-white min-h-screen p-8 xl:px-96 select-none","children":["$","body",null,{"className":"__className_aaf875","children":[["$","$L4",null,{}],["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L7",null,{}],"notFoundStyles":[],"styles":null}]]}]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/451df078de1ab173.css","precedence":"next","crossOrigin":"$undefined"}]],"$L8"]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Tio Ben #DEV"}],["$","meta","3",{"name":"description","content":"Breno"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null
